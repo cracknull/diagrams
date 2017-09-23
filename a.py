@@ -1,1 +1,4 @@
-import 
+import os
+def func(nid,*args)
+    pass
+    
